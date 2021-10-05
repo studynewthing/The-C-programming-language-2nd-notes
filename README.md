@@ -19,7 +19,7 @@ We need a tex editor: Gedit on linux and OS X, or Nano, Vim,...
 
 **Getting started**
 
--Create a program in a file ".c" such as hello.c
+- Create a program in a file ".c" such as hello.c
 ```C
 #include <stdio.h>
 
@@ -28,7 +28,7 @@ main()
 	printf("Hello world\n");
 }
 ```
--Then we compile it with the following command
+- Then we compile it with the following command
 ```
 cc hello.c
 ```
