@@ -1,8 +1,12 @@
 # The-C-programming-language-2nd-notes
 Notes and exercises from the book of [K&amp;R](the_c_programming_language_2.pdf)
 
+------
+Table of contents
+------
+
 # Chapter 1: A tutorial introduction
-## 1. Getting started
+## 1.1 Getting started
 - **Concentrate on the basics**: variables, constants, arithmetic, control flow, functions and the rudiments of input and output.
 - **Leaving out the features**: pointers, structures, most of C's rich set of operators, several control-flow statements, and the standard library.
 
